@@ -58,7 +58,7 @@ project/
 
 │
 
-├── electronic_device.py
+├── main.py
 
 └── README.md
 
@@ -92,7 +92,7 @@ How to Run:
    
 2.	Save the code in a file named main.py
    
-3.	Run the file: python main.py
+3.	Run the file: main.py
    
 Future Improvements:
 
