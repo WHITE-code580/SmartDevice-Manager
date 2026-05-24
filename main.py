@@ -46,7 +46,6 @@ class ElectronicDevice:
             f"and for the price of {self.price} €."
         )
 
-
 # Child class
 class Smartphone(ElectronicDevice):
     def __init__(
@@ -62,7 +61,6 @@ class Smartphone(ElectronicDevice):
         storage_capacity
     ):
         super().__init__(brand, model, description, price)
-
         self.operating_system = operating_system
         self.screen_size = screen_size
         self.battery_capacity = battery_capacity
@@ -122,7 +120,6 @@ class Smartphone(ElectronicDevice):
             f"camera resolution of {self.camera_resolution} MP, "
             f"and storage capacity of {self.storage_capacity} GB."
         )
-
 
 # Create object
 smartphone = Smartphone(
