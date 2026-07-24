@@ -104,7 +104,7 @@ Possible improvement for this project:
    
 3.	Add a Simple Discount Method
    
-Author: Created by Maria S. S. - [WHITE-code58]
+Author: Created by Maria S. S. - [WHITE-code580]
 
 
 
